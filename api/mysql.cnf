@@ -1,0 +1,8 @@
+[client]
+database = django_app
+user = dbadmin
+password = testeteste
+host = localhost
+port = 3306
+default-character-set = utf8
+
